@@ -49,33 +49,33 @@ La salida del programa debe de ser exactamente de la siguiente forma:
 Tipo silla: L
 Tipo cliente: F
 Cantidad de sillas: 10
-Total sin dcto.  $15000.0
-Descuento        $ 3000.0
-Total a pagar    $12000.0
+Total sin dcto. 15000.0
+Descuento 3000.0
+Total a pagar 12000.0
 
 
 Tipo silla: L
 Tipo cliente: N
 Cantidad de sillas: 10
-Total sin dcto.  $15000.0
-Descuento        $ 1500.0
-Total a pagar    $13500.0
+Total sin dcto. 15000.0
+Descuento 1500.0
+Total a pagar 13500.0
 
 
 Tipo silla: E
 Tipo cliente: N
 Cantidad de sillas: 10
-Total sin dcto.  $ 9000.0
-Descuento        $    0.0
-Total a pagar    $ 9000.0
+Total sin dcto. 9000.0
+Descuento 0.0
+Total a pagar 9000.0
 
 
 Tipo silla: B
 Tipo cliente: N
 Cantidad de sillas: 30
-Total sin dcto.  $21000.0
-Descuento        $ 3150.0
-Total a pagar    $17850.0
+Total sin dcto. 21000.0
+Descuento 3150.0
+Total a pagar 17850.0
 
 ```
 
